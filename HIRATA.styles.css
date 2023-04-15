@@ -267,7 +267,7 @@ float: left;
 @media screen and (max-width: 992px){
     img{
         width: 450px;
-        max-width: 45 0px;
+        max-width: 450px;
 }
 }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
