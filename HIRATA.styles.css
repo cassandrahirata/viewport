@@ -256,19 +256,25 @@ float: left;
     img{
         width: 300px;
         max-width: 300px;
-}
+    }
 }
 @media screen and (max-width: 768px){
     img{
         width: 350px;
         max-width: 350px;
-}
+    }
 }
 @media screen and (max-width: 992px){
     img{
         width: 450px;
         max-width: 450px;
+    }
 }
+@media screen and (max-width: 1200px){
+    img{
+        width: 600px;
+        max-width: 600px;
+    }
 }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
